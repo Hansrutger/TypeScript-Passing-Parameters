@@ -6,7 +6,7 @@ const Screen2 = () => {
     <View>
       <Text>Screen2</Text>
     </View>
-  )
+  ) 
 }
 
 export default Screen2
